@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 *.py
 
+# Word documents
+*.docx
+
 # Web specific ignore
 .DS_Store
 Thumbs.db
