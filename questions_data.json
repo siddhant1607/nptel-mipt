@@ -28,12 +28,12 @@
         "reference": "lecture 01, slides 03& 04"
       },
       {
-        "question": "Identify the correct chronological order of the following educational institutions/initiatives associated with Raja Ram Mohan Roy, as discussed in the lecture:",
+        "question": "Identify the correct chronological order of the following educational institutions/initiatives associated with Raja Ram Mohan Roy, as discussed in the lecture: I. Foundation of the Anglo-Hindu School. II. Supporting David Hare’s proposal for the establishment of Hindu College. III. Establishment of Vedanta College, which combined Western knowledge with Indian learning.",
         "options": [
-          "Foundation of the Anglo-Hindu School.",
-          "Supporting David Hare’s proposal for the establishment of Hindu College.",
-          "Establishment of Vedanta College, which combined Western knowledge with Indian learning.",
-          "A. I, II, III      B. II, I, III    C. I, III, II    D. III, I, II"
+          "I, II, III",
+          "II, I, III",
+          "I, III, II",
+          "III, I, II"
         ],
         "correct": 1,
         "correctLetter": "B",
@@ -64,7 +64,7 @@
         "reference": "lecture 04, slides 11 &12"
       },
       {
-        "question": "6. Modern Indian political thinkers like Ram Mohan Roy differed from many Western political theorists in possessing which of the following characteristics?",
+        "question": "Modern Indian political thinkers like Ram Mohan Roy differed from many Western political theorists in possessing which of the following characteristics?",
         "options": [
           "They were purely academic and not engaged in politics.",
           "They were primarily concerned with metaphysical rather than political questions.",
@@ -1498,7 +1498,7 @@
         "reference": "Week 12, Lecture 01 Slide 07"
       },
       {
-        "question": "10.  The book entitled 'Marx, Gandhi and Socialism' was authored by which of the following political thinkers?",
+        "question": "The book entitled 'Marx, Gandhi and Socialism' was authored by which of the following political thinkers?",
         "options": [
           "B.R. Ambedkar",
           "Ram Manohar Lohia",
