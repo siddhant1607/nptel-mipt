@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIPT Quiz - Modern Indian Political Thought</title>
+    <meta name="description" content="Practice quiz for NPTEL Introduction to Modern Indian Political Thought course. 120 questions across 12 weeks.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Navbar -->
+        <nav id="navbar">
+            <div class="nav-inner">
+                <a href="#/" class="nav-brand">
+                    <span class="brand-icon">📚</span>
+                    <span class="brand-text">MIPT Quiz</span>
+                </a>
+                <div class="nav-links">
+                    <a href="#/" class="nav-link" data-nav="home">Home</a>
+                    <a href="#/study" class="nav-link" data-nav="study">Study</a>
+                    <a href="#/practice-all" class="nav-link" data-nav="practice-all">Practice All</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main id="main-content"></main>
+    </div>
+
+    <script src="questions_data.json" type="application/json" id="questions-json"></script>
+    <script src="app.js"></script>
+</body>
+</html>

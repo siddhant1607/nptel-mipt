@@ -1,0 +1,12 @@
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.py
+
+# Web specific ignore
+.DS_Store
+Thumbs.db
+
+# Keep JSON but ignore other data if needed
+# (Optional: customize this)
