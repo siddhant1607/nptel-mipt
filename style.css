@@ -392,11 +392,11 @@ body {
 }
 
 .question-text {
-    font-size: 1.1rem;
-    font-weight: 500;
-    line-height: 1.7;
+    font-size: 1.15rem;
+    line-height: 1.6;
     margin-bottom: 24px;
     color: var(--text-primary);
+    white-space: pre-wrap;
 }
 
 .question-reference {
@@ -656,6 +656,7 @@ body {
     font-weight: 500;
     line-height: 1.6;
     margin-bottom: 16px;
+    white-space: pre-wrap;
 }
 
 .study-options {
